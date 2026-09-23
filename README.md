@@ -22,7 +22,7 @@ class Gourav:
     approach = "Build → test → understand → improve"
 ```
 
-## `02 / toolkit`
+## `02 / toolbox`
 
 **Web & application development**
 
@@ -52,7 +52,7 @@ class Gourav:
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" /></a>
 </p>
 
-## `03 / selected builds`
+## `03 / projects`
 
 <table>
 <tr>
