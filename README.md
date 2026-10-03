@@ -67,7 +67,7 @@ class Gourav:
 </p>
 <p>
   <a href="https://github.com/yupitsmegd7/DSA_Self"><img src="https://img.shields.io/badge/DSA-PRACTICE-22d3ee?style=for-the-badge&amp;labelColor=111827" alt="My DSA practice repository" title="My DSA practice repository" /></a>
-  <a href="(https://leetcode.com/u/yupitsmegd/)"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" title="LeetCode" /></a>
+  <a href="https://leetcode.com/u/yupitsmegd/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" title="LeetCode" /></a>
 </p>
 
 ## `03 / projects`
