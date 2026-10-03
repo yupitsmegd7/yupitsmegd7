@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/yupitsmegd7?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=0b1120" alt="Explore my repositories" title="Explore my repositories" /></a>
   <a href="https://vatavarnam-1.onrender.com/"><img src="https://img.shields.io/badge/TRY_VATAVARNAM-a78bfa?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1120" alt="Try Vatavarnam" title="Try Vatavarnam" /></a>
-  <a href="https://github.com/yupitsmegd7?tab=followers"><img src="https://img.shields.io/github/followers/yupitsmegd7?label=FOLLOW&amp;style=for-the-badge&amp;color=22d3ee&amp;labelColor=111827" alt="GitHub followers" title="GitHub followers" /></a>
+  <a href="https://github.com/yupitsmegd7"><img src="https://img.shields.io/github/followers/yupitsmegd7?label=FOLLOW&amp;style=for-the-badge&amp;color=22d3ee&amp;labelColor=111827" alt="GitHub followers" title="GitHub followers" /></a>
 </p>
 
 ## `01 / whoami`
